@@ -1,2 +1,3 @@
-# Grab.github.io
-This is a pre-built travel agent website that can be used by an agency or a tour operator.
+# GrabCab.github.io
+GrabCabSriLanka.com is a holding page to redirect to grabcab.lk
+Feel free to use this template
